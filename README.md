@@ -32,6 +32,12 @@ IX, respetando tanto la polaridad del voltaje como el sentido de la corriente qu
 
 ![image](https://user-images.githubusercontent.com/93899720/147002477-041a1e5a-daa4-4ecd-b631-1a1139885322.png)
 
+Tablas.
+
+Tabla 4.1. Medición de voltaje aplicando superposición.
+
+Tabla 4.2. Medición de corriente aplicando superposición.
+
 
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
