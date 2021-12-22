@@ -47,7 +47,7 @@ Tabla 4.2. Medición de corriente aplicando superposición.
 
 5. VIDEO
 
-
+https://www.youtube.com/watch?v=eYilaIVZWqU
 
 6. CONCLUSIONES
 
