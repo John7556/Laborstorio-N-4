@@ -1,4 +1,4 @@
-# InformeLaboratorio N# 4
+# Informe de Laboratorio N# 4
 
 
 1. OBJETIVOS
