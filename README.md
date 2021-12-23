@@ -48,6 +48,21 @@ Tabla 4.2. Medición de corriente aplicando superposición.
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
+Cálculo de la intensidad "x"
+
+
+![image](https://user-images.githubusercontent.com/93899720/147168462-2fc7e2eb-1e13-428f-8ff2-d01d06fd1102.png)
+![image](https://user-images.githubusercontent.com/93899720/147168499-74897db8-31cc-4459-992e-f53bc0c0dce0.png)
+![image](https://user-images.githubusercontent.com/93899720/147168525-0698a0bf-8e9d-49aa-a4b6-e0a81f39ef23.png)
+
+
+Cálculo del voltaje "A"
+
+
+![image](https://user-images.githubusercontent.com/93899720/147168633-ef639ddf-773c-4558-aae7-1dd36b6fa477.png)
+![image](https://user-images.githubusercontent.com/93899720/147168671-66c8e697-d059-4efb-8f13-fe0f9446ad76.png)
+![image](https://user-images.githubusercontent.com/93899720/147168687-6405e75a-c785-4710-8c9a-276d6d0881c8.png)
+![image](https://user-images.githubusercontent.com/93899720/147168704-7cf9bfbb-c94d-4ede-ba5a-5f53e9b7abc8.png)
 
 
 5. VIDEO
