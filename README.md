@@ -16,6 +16,8 @@
 
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
+
+
 Arme el circuito que se muestra en la figura .
  
 
