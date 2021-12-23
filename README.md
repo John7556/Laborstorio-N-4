@@ -33,18 +33,6 @@ IX, respetando tanto la polaridad del voltaje como el sentido de la corriente qu
 ![image](https://user-images.githubusercontent.com/93899720/147011681-eb84454f-e09b-4e8e-9310-6ac19e9488b5.png)
 
 
-Tablas.
-
-Tabla 4.1. Medición de voltaje aplicando superposición.
-
-
-![image](https://user-images.githubusercontent.com/93899720/147168180-f500978a-4e1d-4fd3-9f00-6f96c3594fba.png)
-
-
-Tabla 4.2. Medición de corriente aplicando superposición.
-
-![image](https://user-images.githubusercontent.com/93899720/147168204-cd407f51-ec54-46be-ac2f-f2d0a1d2bc27.png)
-
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
@@ -64,6 +52,18 @@ Cálculo del voltaje "A"
 ![image](https://user-images.githubusercontent.com/93899720/147168687-6405e75a-c785-4710-8c9a-276d6d0881c8.png)
 ![image](https://user-images.githubusercontent.com/93899720/147168704-7cf9bfbb-c94d-4ede-ba5a-5f53e9b7abc8.png)
 
+
+Tablas.
+
+Tabla 4.1. Medición de voltaje aplicando superposición.
+
+
+![image](https://user-images.githubusercontent.com/93899720/147168180-f500978a-4e1d-4fd3-9f00-6f96c3594fba.png)
+
+
+Tabla 4.2. Medición de corriente aplicando superposición.
+
+![image](https://user-images.githubusercontent.com/93899720/147168204-cd407f51-ec54-46be-ac2f-f2d0a1d2bc27.png)
 
 5. VIDEO
 
