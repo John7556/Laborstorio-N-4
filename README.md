@@ -3,8 +3,16 @@
 
 1. OBJETIVOS
 
+-	Comprobar experimentalmente el teorema de superposición 
+-	Analizar un circuito lineal 
+-	Identificar mallas dentro de un circuito 
+
 
 2. MARCO TEÓRICO 
+
+![Mapa conceptual Superposición 2](https://user-images.githubusercontent.com/93899720/147169619-5363ba45-1b3f-437a-8561-db5f39750990.jpg)
+
+![Mapa conceptual Superposición](https://user-images.githubusercontent.com/93899720/147169632-94703794-69f9-4929-9683-00e3cbc04bd0.jpg)
 
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
@@ -71,6 +79,11 @@ https://www.youtube.com/watch?v=eYilaIVZWqU
 
 6. CONCLUSIONES
 
-
+-	Mediante el teorema de superposición se pudo obtener resultados que comparándolos con el simulador de circuitos y los resultados obtenidos con el análisis de mallas se corroboró que los mismos son correctos, este método ayuda a simplificar los cálculos en la búsqueda de un voltaje del circuito 
 
 7. BIBLIOGRAFÍA
+
+-	Youtube.com. 2021. Teorema de superposición.. [online] Available at: <https://www.youtube.com/watch?v=kpgTpjeAW2M> [Accessed 23 December 2021].
+-	Innovacionumh.es. 2021. Teorema de superposici�n. [online] Available at: <https://innovacionumh.es/Proyectos/P_19/Tema_1/UMH_05.htm> [Accessed 23 December 2021].
+-	Youtube.com. 2021. Teorema de superposición.. [online] Available at: <https://www.youtube.com/watch?v=kpgTpjeAW2M> [Accessed 23 December 2021].
+
